@@ -1,26 +1,16 @@
----
-title: Android美女拼图游戏
-date: 2016-09-12 19:35:17
-tags: Android游戏
-categories: Android游戏
----
-
 ## 概述 
 
 - [游戏下载试玩](http://o99dg8ap9.bkt.clouddn.com/Android%E7%BE%8E%E5%A5%B3%E6%8B%BC%E5%9B%BE.apk)
 
-- [Github](https://github.com/qiuchengjia/Android-BeautyGame) -->喜欢的同学可以Star一下，非常感谢~~~
+- [Github](https://github.com/qiuchengjia/Android-BeautyGame) 喜欢的同学可以Star一下，非常感谢
 
-- [我的博客](http://www.qiuchengjia.cn/)
-
-- 把图片切分很多份，点击交换拼成一张完整的；这样关卡也很容易设计，3*3；4*4；5*5；6*6；...一直下去....
+- 把图片切分很多份，点击交换拼成一张完整的；这样关卡也很容易设计，3*3；4*4；5*5；6*6；一直下去
 
 - 效果
 
 <center>![](http://o99dg8ap9.bkt.clouddn.com/Android%E7%BE%8E%E5%A5%B3%E6%8B%BC%E5%9B%BE1.gif)</center>
 
-- 加了个切换动画，效果还是不错的~~其实游戏就是自定义了一个控件，下面我们开始自定义之旅~~
-
+- 加了个切换动画，效果还是不错的，其实游戏就是自定义了一个控件，下面我们开始自定义之旅
 
 <!-- more -->
 
