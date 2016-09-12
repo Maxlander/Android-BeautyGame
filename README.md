@@ -4,6 +4,8 @@
 
 - [Github](https://github.com/qiuchengjia/Android-BeautyGame) 喜欢的同学可以Star一下，非常感谢
 
+- [我的博客](http://www.qiuchengjia.cn/)
+
 - 把图片切分很多份，点击交换拼成一张完整的；这样关卡也很容易设计，3*3；4*4；5*5；6*6；一直下去
 
 - 效果
