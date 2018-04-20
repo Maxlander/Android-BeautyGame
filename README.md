@@ -10,7 +10,7 @@
 
 - 效果
 
-<center>![](http://o99dg8ap9.bkt.clouddn.com/Android%E7%BE%8E%E5%A5%B3%E6%8B%BC%E5%9B%BE1.gif)</center>
+![](http://o99dg8ap9.bkt.clouddn.com/Android%E7%BE%8E%E5%A5%B3%E6%8B%BC%E5%9B%BE1.gif)
 
 - 加了个切换动画，效果还是不错的，其实游戏就是自定义了一个控件，下面我们开始自定义之旅
 
@@ -594,7 +594,7 @@ public void nextLevel(){
 
 - ok，到此我们的游戏结束了，我来带大家闯个关：
 
-<center>![](http://o99dg8ap9.bkt.clouddn.com/Android%E7%BE%8E%E5%A5%B3%E6%8B%BC%E5%9B%BE7.gif)</center>
+![](http://o99dg8ap9.bkt.clouddn.com/Android%E7%BE%8E%E5%A5%B3%E6%8B%BC%E5%9B%BE7.gif)
 
 ### 源码下载
 
